@@ -18,4 +18,4 @@ url: "http://www.rohleder.cz" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
