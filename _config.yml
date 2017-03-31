@@ -7,9 +7,9 @@
 
 # Site settings
 title: --davro
-email: david@rohleder.cz
+# email: david@rohleder.cz
 description: > # this means to ignore newlines until "baseurl:"
-  --davro private web pages
+#  --davro private web pages
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.rohleder.cz" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
