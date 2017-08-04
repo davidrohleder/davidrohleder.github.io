@@ -16,8 +16,8 @@ SDU
 
 | vendor    | MAC SDU 1500B | MAC SDU 9000B |
 | --------- | ------------- | ------------- |
-| Cisco     |               |               |
-| HP/H3C    |               |               |
+| Cisco     | asdf          | 23677         |
+| HP/H3C    | asdfasdf      | 34545767      |
 | Juniper   |               |               |
 
 
