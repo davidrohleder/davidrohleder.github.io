@@ -2,6 +2,7 @@
 layout: default
 title: Cookie policy
 permalink: /cookiepolicy
+tags: nonav
 ---
 
 
