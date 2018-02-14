@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTU - definition matters
-tags: router switch cisco HP H3C juniper
+tags: router switch cisco HP H3C juniper linux
 ---
 
 # MTU - definition matters #
@@ -22,5 +22,5 @@ SDU
 | Cisco     | asdf          | 23677         |
 | HP/H3C    | asdfasdf      | 34545767      |
 | Juniper   |               |               |
-
+| Linux     |               |               |
 
