@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="1cm" viewBox="11 179 238 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <rect style="fill: #28ff00; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="132" y="180" width="98" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="173.75" y="189.95">
+      <tspan x="173.75" y="189.95">DATA</tspan>
+    </text>
+    <rect style="fill: #00ffff; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="104" y="180" width="27.6397" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112.595" y="189.95">
+      <tspan x="112.595" y="189.95">TCP</tspan>
+    </text>
+    <rect style="fill: #ff00ff; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="80" y="180" width="23.6397" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="89.2949" y="189.95">
+      <tspan x="89.2949" y="189.95">IP</tspan>
+    </text>
+    <rect style="fill: #ff002f; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="56" y="180" width="24" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="61.725" y="189.95">
+      <tspan x="61.725" y="189.95">MAC</tspan>
+    </text>
+    <rect style="fill: #ff002f; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="230" y="180" width="18.5378" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="233.869" y="189.95">
+      <tspan x="233.869" y="189.95">FCS</tspan>
+    </text>
+    <rect style="fill: #ff002f; fill-opacity: 0.631373; stroke-opacity: 1; stroke-width: 0.705556; stroke: #000000" x="12" y="180" width="43.6094" height="16" rx="0" ry="0"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="20.5547" y="189.95">
+      <tspan x="20.5547" y="189.95">Preamble</tspan>
+    </text>
+  </g>
+</svg>
