@@ -21,6 +21,7 @@ SDU
 [Juniper MTU](http://weblogs.com.pk/jahil/archive/2009/05/05/configuring-the-juniper-media-ip-mpls-mtu.aspx)
 [Juniper vs. Cisco MTU](http://www.net-gyver.com/?p=1086)
 
+[Juniper encapsulation overhead](https://www.juniper.net/documentation/en_US/junos/topics/reference/general/interfaces-encapsulation-overhead-by-encapsualtion-type.html)
 
 | vendor    | MAC SDU 1500B | MAC SDU 9000B |
 | --------- | ------------- | ------------- |
